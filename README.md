@@ -1,16 +1,32 @@
-## Hi there 👋
+# BLANKO
 
-<!--
-**Binzvv/binzvv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**The independent creative identity of Binod Tamang.**
 
-Here are some ideas to get you started:
+Exploring culture, behaviour and technology. Building what comes next.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a London-based designer working at the intersection of brand, digital experiences and creative systems.
+
+BLANKO is my space for independent thinking, cultural exploration and experimentation. A place to question established conventions, test emerging ideas and build new forms of interaction.
+
+## Building in public
+
+**PLATINUM TRASH**  
+An experimental digital experience exploring what happens when a website becomes something you interact with rather than simply browse.
+
+[Explore PLATINUM TRASH](https://platinum-trash.netlify.app/)
+
+**Creative experiments**  
+Exploring interactive systems, emerging technology and new ways for brands and people to connect.
+
+## Connected worlds
+
+- [**GitHub — What I build**](https://github.com/Binzvv)
+- [**Pinterest — What shapes my taste**](https://pin.it/6kzeYiOl7)
+- [**X — What I think**](https://x.com/platinumtrsh)
+- [**LinkedIn — My professional background**](http://www.linkedin.com/in/binodtamang)
+
+---
+
+**THE FUTURE DOESN'T COME WITH INSTRUCTIONS.**
+
+BLANKO / Binod Tamang / Binzvv
