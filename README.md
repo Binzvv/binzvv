@@ -27,4 +27,4 @@ Exploring interactive systems, emerging technology and new ways for brands and p
 
 **THE FUTURE DOESN'T COME WITH INSTRUCTIONS.**
 
-BLANKO / Binod Tamang / Binzvv
+BINNIE BLANKO / Binod Tamang / Binzvv
