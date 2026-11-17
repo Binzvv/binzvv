@@ -1,12 +1,16 @@
 # BLANKO
 
-**The independent creative identity of Binod Tamang.**
+**The independent creative identity of Binod Tamang (Binzvv).**
 
 Exploring culture, behaviour and technology. Building what comes next.
 
 I'm a London-based designer working at the intersection of brand, digital experiences and creative systems.
 
 BLANKO is my space for independent thinking, cultural exploration and experimentation. A place to question established conventions, test emerging ideas and build new forms of interaction.
+
+**Official GitHub:** https://github.com/Binzvv
+
+This is the primary public home for BLANKO's creative projects, experiments and evolving ideas.
 
 ## Building in public
 
